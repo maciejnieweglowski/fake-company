@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/maciejnieweglowski/fake-company.git/static/css/main.499b5099.chunk.css",
-    "main.js": "/maciejnieweglowski/fake-company.git/static/js/main.96b6fb64.chunk.js",
-    "main.js.map": "/maciejnieweglowski/fake-company.git/static/js/main.96b6fb64.chunk.js.map",
-    "runtime-main.js": "/maciejnieweglowski/fake-company.git/static/js/runtime-main.f6b691de.js",
-    "runtime-main.js.map": "/maciejnieweglowski/fake-company.git/static/js/runtime-main.f6b691de.js.map",
-    "static/js/2.c9ed63e5.chunk.js": "/maciejnieweglowski/fake-company.git/static/js/2.c9ed63e5.chunk.js",
-    "static/js/2.c9ed63e5.chunk.js.map": "/maciejnieweglowski/fake-company.git/static/js/2.c9ed63e5.chunk.js.map",
-    "index.html": "/maciejnieweglowski/fake-company.git/index.html",
-    "static/css/main.499b5099.chunk.css.map": "/maciejnieweglowski/fake-company.git/static/css/main.499b5099.chunk.css.map",
-    "static/js/2.c9ed63e5.chunk.js.LICENSE.txt": "/maciejnieweglowski/fake-company.git/static/js/2.c9ed63e5.chunk.js.LICENSE.txt"
+    "main.css": "/fake-company/static/css/main.499b5099.chunk.css",
+    "main.js": "/fake-company/static/js/main.96b6fb64.chunk.js",
+    "main.js.map": "/fake-company/static/js/main.96b6fb64.chunk.js.map",
+    "runtime-main.js": "/fake-company/static/js/runtime-main.92ab32f6.js",
+    "runtime-main.js.map": "/fake-company/static/js/runtime-main.92ab32f6.js.map",
+    "static/js/2.72dcddd0.chunk.js": "/fake-company/static/js/2.72dcddd0.chunk.js",
+    "static/js/2.72dcddd0.chunk.js.map": "/fake-company/static/js/2.72dcddd0.chunk.js.map",
+    "index.html": "/fake-company/index.html",
+    "static/css/main.499b5099.chunk.css.map": "/fake-company/static/css/main.499b5099.chunk.css.map",
+    "static/js/2.72dcddd0.chunk.js.LICENSE.txt": "/fake-company/static/js/2.72dcddd0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6b691de.js",
-    "static/js/2.c9ed63e5.chunk.js",
+    "static/js/runtime-main.92ab32f6.js",
+    "static/js/2.72dcddd0.chunk.js",
     "static/css/main.499b5099.chunk.css",
     "static/js/main.96b6fb64.chunk.js"
   ]
